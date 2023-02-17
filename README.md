@@ -2,16 +2,16 @@
 <img width="100%" height = "300px" src="https://media0.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e47qje16ihygwsi11a4fw2axeb8p4ard2taq7yn11tm&rid=giphy.gif&ct=g" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h2> Hello Vectors < Developers/ >! </h2>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Shreejan-git.https://github.com/Shreejan-git)
 
 </p>
-<div size='20px'> Hi! My name is Shreejan Shrestha. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> I'm Shreejan and I am currently based in Kathmandu (Nepal) working as a machine learning developer. :smile: 
 </div>
 
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on real-time object detection 
 
-- 💬 Talk to me about machine learning algorithms, leadership, 
+- 💬 Talk to me about machine learning algorithms, leadership
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>

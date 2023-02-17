@@ -2,7 +2,7 @@
 <img width="100%" height = "300px" src="https://media0.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif?cid=ecf05e47qje16ihygwsi11a4fw2axeb8p4ard2taq7yn11tm&rid=giphy.gif&ct=g" alt="cover" />
 </div>
 
-<h2> Hello Vectors < Developers/ >! </h2>
+<h2> Hello Fellow Vectors of this amazing matrix! </h2>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Shreejan-git.https://github.com/Shreejan-git)

@@ -16,14 +16,19 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 
 
-- 🔭 I’m currently working on computer vision projects related to face recognition, object detection and tracking
+- 🔭 I’m currently working on computer vision projects related to face recognition, object detection and tracking, ICR/IWR.
 
-- 🌱 I’m currently learning C++, pytorch
+- 🌱 I’m currently learning C++, pytorch, NLP.
 
 
-- 👯 I’m looking to collaborate on real-time object detection 
+- 👯 I’m looking to collaborate on real-time object detection, ICR/IWR and writing articles related to ML/DL topics.
 
-- 💬 Talk to me about machine learning algorithms, leadership
+- 💬 Talk to me about machine learning algorithms, leadership, current hot DL's architectures topics, fitness.
+
+<h2> Articles </h2>
+<ul>
+    <li><a href="https://www.linkedin.com/pulse/importance-weight-initialization-techniques-shreejan-shrestha/">Importance of weight initialization techniques</a></li>    
+</ul>
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>

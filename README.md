@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on computer vision projects related to face recognition, object detection and tracking, ICR/IWR.
 
-- 🌱 I’m currently learning C++, pytorch, NLP.
+- 🌱 I’m currently learning C++, different Vision and Language related models.
 
 
 - 👯 I’m looking to collaborate on real-time object detection, ICR/IWR and writing articles related to ML/DL topics.
@@ -30,6 +30,9 @@
     <li><a href="https://www.linkedin.com/pulse/importance-weight-initialization-techniques-shreejan-shrestha/">Importance of weight initialization techniques</a></li>    
     <li><a href="https://www.linkedin.com/pulse/ai-carbon-footprint-global-warming-shreejan-shrestha/">AI, Carbon Footprint and Global Warming</a></li>   
 </ul>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejan-git&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>

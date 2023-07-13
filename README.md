@@ -28,7 +28,7 @@
 <h2> Articles </h2>
 <ul>
     <li><a href="https://www.linkedin.com/pulse/importance-weight-initialization-techniques-shreejan-shrestha/">Importance of weight initialization techniques</a></li>    
-    <li><a href="[https://www.linkedin.com/pulse/ai-carbon-footprint-global-warming-shreejan-shrestha/?trackingId=rxSWuvUiRUif7kBj4pGxOA%3D%3D](https://www.linkedin.com/pulse/ai-carbon-footprint-global-warming-shreejan-shrestha)">AI, Carbon Footprint and Global Warming</a></li>   
+    <li><a href="https://www.linkedin.com/pulse/ai-carbon-footprint-global-warming-shreejan-shrestha/">AI, Carbon Footprint and Global Warming</a></li>   
 </ul>
 
 

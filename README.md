@@ -30,9 +30,10 @@
     <li><a href="https://www.linkedin.com/pulse/importance-weight-initialization-techniques-shreejan-shrestha/">Importance of weight initialization techniques</a></li>    
     <li><a href="https://www.linkedin.com/pulse/ai-carbon-footprint-global-warming-shreejan-shrestha/">AI, Carbon Footprint and Global Warming</a></li>   
 </ul>
+:fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejan-git&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreejan-git&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>

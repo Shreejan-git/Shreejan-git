@@ -9,10 +9,9 @@
 
 <h2> About Me </h2>
 
-- 🔭 I’m currently working on computer vision projects related to face recognition, object detection and tracking, ICR/IWR.
+- 🔭 I’m currently working on computer vision projects related to face recognition, object detection and tracking, ICR/IWR. And other domains going outside of ML like CI/CD pipeline, Cloud computing.
 
-- 🌱 I’m currently learning C++, different Vision and Language related models such as object detection and Large Language models.
-
+- 🌱 I’m currently learning different Vision and Language related models such as object detection and Large Language models.
 
 - 👯 I’m looking to collaborate on real-time object detection, ICR/IWR and writing articles related to ML/DL topics.
 
